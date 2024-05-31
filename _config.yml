@@ -25,26 +25,26 @@ author:
   name             : "RITESH DALAI"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Odisha"
   employer         : "IIM BODHGAYA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dalair@xoticbanda.in" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-8385-6168"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ritesh-Dalai"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
+  github           : "osoi-sloth"
+  kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ritesh-dalai-524338152"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
