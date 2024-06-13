@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MBA, Indian Institute of Management Bodh Gaya (IIM Bodh Gaya), 2026
+* Integrated M.Sc. in Life Sciences, National Institute of Science Education and Research (NISER), 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2022: Freelance Subject Expert
+  * Chegg India
+  * Duties includes: Answer questions posted by students on the subject Computer Science
+  * Supervisor: Chegg Inc.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Intern
+  * NISER
+  * Duties included: Learning Gel Electrophoresis, Primer Design, PCR, Plating, Streaking, Molecular modelling, Graphpad Prism
+  * Supervisor: Dr. Chandan Goswami
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analytic tools: Tableau, PowerBI
+* Programming languages: Python, R, Java
+* Wet Lab skills: DNA cloning, Gel Electrophoresis, Genetic profiling, Cell culture
+* Dry lab skills: Molecular Docking, Molecular Modelling, Molecular Dynamics Simulation, Image/Movie production of Molecular processes using Pymol or VMD
+* Hobby Skills: Docker Contanerization and Automation, Web Hosting my home server, Shell Scripting, Automate filing of a Google Form
 
 Publications
 ======
@@ -47,7 +40,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
